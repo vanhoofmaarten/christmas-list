@@ -13,9 +13,9 @@ mongoose.connect(
   { useNewUrlParser: true },
   (err, res) => {
     if (err) {
-      console.log("Failed to connected to " + db);
+      console.log("Failed to connected to db");
     } else {
-      console.log("Connected to " + db);
+      console.log("Connected to db");
     }
   }
 );
