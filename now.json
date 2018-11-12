@@ -1,0 +1,8 @@
+{
+  "version":1,
+  "alias": "kerstmis.mrtnvh.com",
+  "env": {
+    "DB_CONNECTION":"@db-connection",
+    "API_URL": "https://kerstmis.mrtnvh.com"
+  }
+}
